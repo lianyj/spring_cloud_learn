@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/demo-learn-1" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/demo-learn-10" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/demo-learn-12" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/demo-learn-13" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/demo-learn-14" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/demo-learn-15" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/demo-learn-16" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/demo-learn-4" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/demo-learn-5" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/demo-learn-6" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/demo-learn-7" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/eureka-2-register" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/eureka-3-use" vcs="svn" />
+  </component>
+</project>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="API Gateway zuul" />
+        <module name="demo-learn-16" />
+        <module name="eureka-2-producer" />
+        <module name="eureka-3-consumer" />
+        <module name="Hystrix" />
+        <module name="learn-1-Eureka" />
+        <module name="Spring Cloud Config" />
+        <module name="spring-cloud-config-client" />
+        <module name="spring-cloud-consul-consumer" />
+        <module name="spring-cloud-consul-producer-1" />
+        <module name="spring-cloud-consul-producer-2" />
+        <module name="Turbine" />
+        <module name="zipkin-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="API Gateway zuul" target="1.8" />
+      <module name="demo-learn-16" target="1.8" />
+      <module name="eureka-2-producer" target="1.8" />
+      <module name="eureka-3-consumer" target="1.8" />
+      <module name="Hystrix" target="1.8" />
+      <module name="learn-1-Eureka" target="1.8" />
+      <module name="Spring Cloud Config" target="1.8" />
+      <module name="spring-cloud-config-client" target="1.8" />
+      <module name="spring-cloud-consul-consumer" target="1.8" />
+      <module name="spring-cloud-consul-producer-1" target="1.8" />
+      <module name="spring-cloud-consul-producer-2" target="1.8" />
+      <module name="spring-cloud-eureka" target="1.8" />
+      <module name="Turbine" target="1.8" />
+      <module name="zipkin-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
